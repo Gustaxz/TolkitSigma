@@ -1,0 +1,14 @@
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.exe
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.deps.json
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.runtimeconfig.json
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.dll
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.pdb
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfoInputs.cache
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfo.cs
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.csproj.CoreCompileInputs.cache
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.dll
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\refint\TolkitSigma.dll
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.pdb
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.genruntimeconfig.cache
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\ref\TolkitSigma.dll
