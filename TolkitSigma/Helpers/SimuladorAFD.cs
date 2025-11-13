@@ -10,7 +10,6 @@ namespace TolkitSigma.Helpers
             Console.WriteLine("=== Tarefa 10 — Simulador de AFD ===");
             Console.WriteLine("Este AFD reconhece palavras sobre Σ = {a, b} que terminam em 'b'.");
 
-            // definição do AFD
             string estadoInicial = "q0";
             string[] estadosFinais = { "q1" };
 
@@ -37,7 +36,7 @@ namespace TolkitSigma.Helpers
 
                 Console.WriteLine($"Consumindo '{simbolo}' em {estadoAtual}...");
                 estadoAtual = transicoes[(estadoAtual, simbolo)];
-                Console.WriteLine($" → Novo estado: {estadoAtual}");
+                Console.WriteLine($" -> Novo estado: {estadoAtual}");
             }
 
             bool aceita = Array.Exists(estadosFinais, s => s == estadoAtual);

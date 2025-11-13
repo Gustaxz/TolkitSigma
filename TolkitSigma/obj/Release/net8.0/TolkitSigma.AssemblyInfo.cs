@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TolkitSigma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e3c4abb9402e226dcbc352048a0cc770103247b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f448e1334099f7be929ef278948d7c80d099a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TolkitSigma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TolkitSigma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

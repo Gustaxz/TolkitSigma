@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\",
+  "WorkspaceRootPath": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Helpers\\DetectorLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\SimuladorAFD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\SimuladorAFD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\DetectorLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\DetectorLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Helpers\\Tarefa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\Tarefa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\Tarefa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,41 +26,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SimuladorAFD.cs",
+              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\SimuladorAFD.cs",
+              "RelativeDocumentMoniker": "Helpers\\SimuladorAFD.cs",
+              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\SimuladorAFD.cs",
+              "RelativeToolTip": "Helpers\\SimuladorAFD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:54:49.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DetectorLoop.cs",
-              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Helpers\\DetectorLoop.cs",
+              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\DetectorLoop.cs",
               "RelativeDocumentMoniker": "Helpers\\DetectorLoop.cs",
-              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Helpers\\DetectorLoop.cs",
+              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\DetectorLoop.cs",
               "RelativeToolTip": "Helpers\\DetectorLoop.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T21:57:45.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Tarefa1.cs",
-              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Helpers\\Tarefa1.cs",
+              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\Tarefa1.cs",
               "RelativeDocumentMoniker": "Helpers\\Tarefa1.cs",
-              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Helpers\\Tarefa1.cs",
+              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Helpers\\Tarefa1.cs",
               "RelativeToolTip": "Helpers\\Tarefa1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:59:16.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T21:59:16.43Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Program.cs",
+              "DocumentMoniker": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma (1)\\TolkitSigma\\TolkitSigma\\Program.cs",
+              "ToolTip": "D:\\Administrador\\Downloads\\TolkitSigma_certo\\TolkitSigma\\TolkitSigma\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAuwEAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
