@@ -1,0 +1,44 @@
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.exe
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.deps.json
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.runtimeconfig.json
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.dll
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.pdb
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfoInputs.cache
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfo.cs
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.csproj.CoreCompileInputs.cache
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.dll
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\refint\TolkitSigma.dll
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.pdb
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.genruntimeconfig.cache
+C:\Users\convidado\source\repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\ref\TolkitSigma.dll
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfoInputs.cache
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfo.cs
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.csproj.CoreCompileInputs.cache
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.sourcelink.json
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.dll
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\refint\TolkitSigma.dll
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.pdb
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.exe
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.deps.json
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.runtimeconfig.json
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.dll
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.pdb
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.genruntimeconfig.cache
+C:\Users\06003616\Source\Repos\TolkitSigma\TolkitSigma\obj\Debug\net8.0\ref\TolkitSigma.dll
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.exe
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.deps.json
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.runtimeconfig.json
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.dll
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\bin\Debug\net8.0\TolkitSigma.pdb
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfoInputs.cache
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.AssemblyInfo.cs
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.csproj.CoreCompileInputs.cache
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.sourcelink.json
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.dll
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\refint\TolkitSigma.dll
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.pdb
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\TolkitSigma.genruntimeconfig.cache
+D:\Administrador\Downloads\TolkitSigma (1)\TolkitSigma\TolkitSigma\obj\Debug\net8.0\ref\TolkitSigma.dll
